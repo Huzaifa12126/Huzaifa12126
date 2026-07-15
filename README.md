@@ -25,14 +25,6 @@ Provisioned Oracle Database on Oracle Linux, implemented RMAN backup strategies,
 **Freelance Game Developer** — Unity3D & C# (2023–Present)
 Delivered 4 commercial 3D games with custom UI, NPC AI, and modular architecture, cutting dev time by 30%.
 
-## 🚀 Featured Projects
-
-- **[Smart Travel Planner](https://github.com/Huzaifa12126/Smart-Travel-Planner-An-AI-Based-Intelligent-Trip-Planning-System)** — AI-based trip planning web app with itinerary generation, budget estimation, and day-by-day scheduling.
-- **[Diabetes Readmission Classifier](https://github.com/Huzaifa12126/Diabetes-Readmission-Classifier)** — ML classifier trained on 100,000+ hospital records to predict patient readmission risk.
-- **[Android Inventory Management System](https://github.com/Huzaifa12126/Android-based-Inventory-Management-System)** — Real-time inventory tracking app with SQLite and Material Design UI.
-- **[Voting Management System](https://github.com/Huzaifa12126/Voting-Management-System)** — Desktop voting app with admin login and live results, reducing invalid entries by 90%.
-- **Rental Product Platform** — Full-stack MERN rental platform with Cloudinary image uploads and Nodemailer integration.
-- **Hospital Management System** — Console-based C++ system managing 150+ patient records via linked lists and file I/O.
 
 ## 📜 Certifications
 
