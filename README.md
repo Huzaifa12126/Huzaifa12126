@@ -1,16 +1,43 @@
-# 💫 About Me:
-I’m currently working on a Machine Learning project focused on practical AI applications<br>I’m looking to collaborate on AI, Machine Learning, and Data Analysis projects<br>I’m looking for help with advanced Deep Learning techniques and real-world AI deployment<br>I’m currently learning Generative AI, MLOps, and AI model optimization
+# Hi, I'm Huzaifa 👋
 
+Full-stack developer & database specialist with hands-on experience in Oracle DBA, Unity3D game development, and MERN applications. BS IT student at Bahria University Karachi (graduating 2026), building cloud-deployed, AI-integrated systems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-nadeem-137706249/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huzaifnadeem86@gmail.com) 
+- 🎓 BS Information Technology — Bahria University Karachi (2022–2026)
+- 🛠️ Full-stack dev, Oracle DBA, ML, and Unity3D game development
+- ☁️ Exploring DevOps, cloud, and cybersecurity
+- ⚡ Proficient in Claude Code for accelerated development workflows
+- 📫 huzaifnadeem86@gmail.com | +92 334 7313203
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
+## 🧰 Tech Stack
 
-![](https://nirzak-streak-stats.vercel.app/?user=Huzaifa12126&theme=dark&hide_border=true)<br/>
+**Languages:** Python, JavaScript, Java, C++, C#, Kotlin
+**Web:** React, Node.js, Express, MongoDB, MERN Stack
+**Databases:** Oracle, MySQL, SQLite, MongoDB, Oracle Linux
+**Mobile & Games:** Android (Kotlin), Unity3D, Unreal Engine
+**ML:** scikit-learn, TensorFlow, NumPy, pandas
+**Tools:** Git, GitHub, Postman, VS Code, Claude Code
 
----
-[![](https://visitcount.itsvg.in/api?id=Huzaifa12126&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💼 Experience
 
+**Database Administrator Intern** — Mag Tech Consultants (Sep–Nov 2024)
+Provisioned Oracle Database on Oracle Linux, implemented RMAN backup strategies, automated backups via Python, and configured dual-node HA environments.
+
+**Freelance Game Developer** — Unity3D & C# (2023–Present)
+Delivered 4 commercial 3D games with custom UI, NPC AI, and modular architecture, cutting dev time by 30%.
+
+## 🚀 Featured Projects
+
+- **[Smart Travel Planner](https://github.com/Huzaifa12126/Smart-Travel-Planner-An-AI-Based-Intelligent-Trip-Planning-System)** — AI-based trip planning web app with itinerary generation, budget estimation, and day-by-day scheduling.
+- **[Diabetes Readmission Classifier](https://github.com/Huzaifa12126/Diabetes-Readmission-Classifier)** — ML classifier trained on 100,000+ hospital records to predict patient readmission risk.
+- **[Android Inventory Management System](https://github.com/Huzaifa12126/Android-based-Inventory-Management-System)** — Real-time inventory tracking app with SQLite and Material Design UI.
+- **[Voting Management System](https://github.com/Huzaifa12126/Voting-Management-System)** — Desktop voting app with admin login and live results, reducing invalid entries by 90%.
+- **Rental Product Platform** — Full-stack MERN rental platform with Cloudinary image uploads and Nodemailer integration.
+- **Hospital Management System** — Console-based C++ system managing 150+ patient records via linked lists and file I/O.
+
+## 📜 Certifications
+
+Claude Code 101 (Anthropic Skilljar) · Project Management Short Course (OHSC) · Generative AI and MLOps (Self-Directed)
+
+## 🌐 Links
+
+[Portfolio](https://huzaifanadeem-portfolio.vercel.app) · [LinkedIn](#) · [GitHub](https://github.com/Huzaifa12126)
